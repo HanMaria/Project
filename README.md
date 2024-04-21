@@ -1,0 +1,1 @@
+In this part, you learned the process of fine-tuning the Falcon 7b language model using the QLoRA adapter. We trained the model on a custom dataset and observed significant improvements in the quality of responses compared to the untrained model. By leveraging of fine-tuning and adapting the model to specific tasks, we achieved more accurate and contextually relevant responses.
